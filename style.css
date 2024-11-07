@@ -1,0 +1,24 @@
+h1{
+    color: rgb(249, 242, 242);
+    text-align: center;
+    padding-top:20px;}
+.whole{
+    height:540px;
+    width: 60%;
+    background-color:black;
+    margin-left:20%;
+}
+.container{
+    margin-top:10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+}
+.one__img{
+    height:200px;
+    width: 150px;
+    border: solid rgb(64, 54, 54) 2px;
+    margin: 10px;
+
+}
